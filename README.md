@@ -1,4 +1,4 @@
-# binary-tree
+# Binary-tree
 Realization of some binary tree actions
 
 Hello everyone! 👋
